@@ -18,8 +18,8 @@ env/
 
 # Log and data output files
 *.log
-data/*.log
-data/*.csv
+# data/*.log
+# data/*.csv
 
 # OS-specific files
 .DS_Store
