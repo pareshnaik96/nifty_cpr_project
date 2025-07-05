@@ -17,7 +17,7 @@ env/
 .vscode/
 
 # Log and data output files
-*.log
+#*.log
 # data/*.log
 # data/*.csv
 
