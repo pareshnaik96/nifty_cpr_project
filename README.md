@@ -4,8 +4,7 @@ This project fetches Nifty 50 historical data and classifies each day's CPR as *
 
 ## How to Run
 
-1. Clone the repo:
-```bash
+# 1. Clone the repo:
 git clone <repo_url>
 cd nifty_cpr_project
 
