@@ -3,7 +3,7 @@
 This project fetches Nifty 50 historical data and classifies each day's CPR as **Narrow** or **Wide** based on its width percentage.
 
 ## How to Run
-
+```bash
 ## 1. Clone the repo:
 git clone <repo_url>
 cd nifty_cpr_project
